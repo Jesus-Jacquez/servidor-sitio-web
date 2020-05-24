@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(202, 250, 232);
+}
+h1{
+    text-align: center;
+    color: black;
+    font-family: 'Cambria';
+    font-size: 300%;
+}
+h2{
+    text-align: center;
+    color: black;
+    font-family: 'Cambria';
+    font-size: 200%;
+}
+h3{
+    color: black;
+    font-family: 'Cambria';
+    font-size: 170%;
+}
+p{ 
+    color:black; 
+    font-family: 'Arial';
+    font-size: 150%;
+    padding: 16px;
+}
+#clase{
+    background-color:lemonchiffon; 
+    padding:20px; 
+    border: 2px solid black;
+}
+#clase1{
+    background-color: rgb(255, 200, 209);
+    padding:10px; 
+    border: 2px solid black;
+}
+li{
+    color:black; 
+    font-family: 'Arial';
+    font-size: 145%;
+}
